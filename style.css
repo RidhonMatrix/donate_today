@@ -136,3 +136,27 @@ textarea {
   color: #b3b3b3;
   padding-left: 20px;
 }
+
+.donate-grid {
+  display: flex;
+  width: 900px;
+}
+
+.box2 {
+  padding: 15px 30px;
+  margin: 8px 10px;
+  border-radius: 4px;
+}
+.box2 img {
+  width: 20%;
+}
+
+#food {
+  background: #0a7eac34;
+}
+#shelter {
+  background: #ac300a34;
+}
+#edu {
+  background: #ac940a34;
+}
