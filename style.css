@@ -143,7 +143,7 @@ textarea {
 }
 
 .box2 {
-  padding: 15px 30px;
+  padding: 30px 30px;
   margin: 8px 10px;
   border-radius: 4px;
 }
@@ -159,4 +159,32 @@ textarea {
 }
 #edu {
   background: #ac940a34;
+}
+
+footer {
+  height: 150px;
+  background-color: black;
+  text-align: center;
+}
+footer p {
+  color: #ff5959;
+}
+footer h3 {
+  color: white;
+}
+.box3 {
+  margin: 5px 10px;
+  padding: 10px 50px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  box-shadow: 10px 10px 40px gray;
+  border-radius: 5px;
+}
+.box3 img {
+  width: 100%;
+  border-radius: 5px;
 }
